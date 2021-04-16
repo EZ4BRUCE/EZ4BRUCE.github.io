@@ -24,51 +24,45 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+<br>
 
-## Features
+![img](assets/images/About_Cover.jpg)
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
 
-## Skins
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+#### 关于我
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
 
-### Highlight Theme
+缺乏耐心之人，但是有改变的勇气
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+
+<br>
+
+#### 为什么写博客
+
+​	写下这些东西的主要的目的是记录当下的学习与生活，一方面是巩固，另一方面则是备忘。至于说能否上升到 “分享经验，造福后人” 这是我万万不敢的，因为我还不配（捂脸）
+
+​	我始终认为若要为人师表则必先以身作则，若要为人指路则必先周游四方，如果自己都不是很懂就去教别人，我认为是很滑稽的。当然，若能凭借这些潦草的文字与熟人、挚友分享并交流，那我就可以说是相当满足的了
+
+<br>
+
+#### 写些什么
+
+​	我暂且将博客分为四个栏目
+
+​	`学习笔记`主要是总结学过的知识，保存一些代码，我希望的更新频率是一周一次，因为要 *Strike while the iron is hot*​ :new_moon_with_face:
+
+​	`资源搜集`主要是为了当有朋友找我要某某某资源时我可以反手给TA个链接:sunglasses:
+
+​	`书影音&游记`用作写一些不专业的主观强烈的滑稽的书评影评音评和游记（由于过于羞耻不想发在social media）
+
+​	`杂谈`主要记录一些最近在折腾或者研究的各种东西，并分享一下~~成功~~(失败)经验
+
+<br>

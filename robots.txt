@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ez4bruce.github.io/sitemap.xml

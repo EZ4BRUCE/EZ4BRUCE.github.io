@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>EZ4BRUCE&#39;s Blog</title>
-    <link>https://ez4bruce.github.io/</link>
-    <description>Recent content on EZ4BRUCE&#39;s Blog</description>
+    <title>linux on EZ4BRUCE&#39;s Blog</title>
+    <link>https://ez4bruce.github.io/tags/linux/</link>
+    <description>Recent content in linux on EZ4BRUCE&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Mar 2022 14:30:00 +0800</lastBuildDate><atom:link href="https://ez4bruce.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Mar 2022 14:30:00 +0800</lastBuildDate><atom:link href="https://ez4bruce.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1.放眼看世界——详细且实用的linux代理设置</title>
       <link>https://ez4bruce.github.io/posts/linux/1.proxy-settings-on-linux/</link>
@@ -312,32 +312,6 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p>现在，你将获得一个http proxy为<code>http://127.0.0.1:8118</code>，<code>8118</code>是<code>privoxy</code>默认的服务监听端口，然后你就可以使用<code>http://127.0.0.1:8118</code>作为你的http proxy使用在前文的配置中了</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>0.Beginning</title>
-      <link>https://ez4bruce.github.io/posts/essay/0.beginning/</link>
-      <pubDate>Thu, 10 Mar 2022 10:30:00 +0800</pubDate>
-      
-      <guid>https://ez4bruce.github.io/posts/essay/0.beginning/</guid>
-      <description>简单的自我介绍</description>
-      <content:encoded><![CDATA[<h3 id="为什么写博客">为什么写博客</h3>
-<p>写下这些东西的主要的目的是记录当下的学习与生活，一方面是巩固，另一方面则是备忘。至于说能否上升到 “分享经验，造福后人”的话，这是我万万不敢的，因为我还不配（捂脸)</p>
-<p>我始终认为若要为人师表则必先以身作则，若要为人指路则必先周游四方，如果不是特别精通就去教导别人，我认为这是很滑稽的。当然，若能凭借这些潦草的文字与熟人、挚友分享交流，那就可以说是相当满足的了</p>
-<hr>
-<h3 id="写些什么">写些什么</h3>
-<p>我暂且将博客的内容分为以下几个方面：</p>
-<p><code>技术博客</code> 记录、探索开发过程中遇到的问题以及收录原创的技术文章</p>
-<p><code>学习笔记</code> 摘录一些文章，保存一些代码，总结学到的知识，希望一周更新一次，因为 <em>Strike while the iron is hot</em></p>
-<p><code>资源搜集</code> 搜集各种各样的资源留作备用，方便转发给朋友 or 同事</p>
-<p><code>杂谈</code> 记录最近在折腾或者研究的各种东西，并分享一下<del>成功</del>(失败)经验</p>
-<p><code>书影音&amp;游记</code> 写一些不专业的滑稽的书评影评音评和游记（过于羞耻不想发在社交媒体）</p>
-<p><code>随笔</code> 简单记录最近的工作、生活的开心或者烦恼的事</p>
-<hr>
-<h3 id="开始的最后">开始的最后</h3>
-<p>所以姑且还是把这些文字放在互联网中小小的角落，让它们静静地躺在那，待我有空时再拾起来看看，或是查阅，或是怀旧</p>
-<p>倘若你真的碰巧在茫茫互联网中发现了这里，那我自然欢迎你停一停，看一看，但请千万别认真</p>
 ]]></content:encoded>
     </item>
     
